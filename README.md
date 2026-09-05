@@ -7,7 +7,9 @@ Currently, I am working on-
 - Learning Java, Data Structures & Algorithms, System Design, and Machine Learning
 -  Building full-stack and AI projects
 - Solving Coding problems regularly
--  Preparing for Software Engineering internships
+
+- LeetCode profile https://leetcode.com/u/Srikant23/
+
 
  Tech Stack
 
@@ -73,6 +75,7 @@ Currently, I am working on-
 
 - LinkedIn: https://www.linkedin.com/in/srikantb31
 - Email: srikant3105@gmail.com
+  
 
 ---
 
